@@ -8,7 +8,7 @@ https://medium.com/@rickykim78
 Below implementations can be found in the attached notebook.
 
 ## Neural Network with Doc2Vec/Word2Vec/GloVe<br>
-prerequisite: [Theano](https://github.com/Theano/Theano, [Keras](https://github.com/keras-team/keras), [Gensim 3.2.0](https://github.com/RaRe-Technologies/gensim)
+prerequisite: [Theano](https://github.com/Theano/Theano), [Keras](https://github.com/keras-team/keras), [Gensim 3.2.0](https://github.com/RaRe-Technologies/gensim)
 ```
 pip install tensorflow
 pip install keras
